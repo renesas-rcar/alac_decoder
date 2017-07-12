@@ -24,7 +24,7 @@
 
 /*------------------------------------------------------------------------------*/
 /* ALAC Decode Software                                                         */
-/* Copyright(C) 2014-2016 Renesas Electronics Corporation.                      */
+/* Copyright(C) 2014-2017 Renesas Electronics Corporation.                      */
 /*------------------------------------------------------------------------------*/
 
 /****************************************************************/
@@ -38,7 +38,7 @@
 /****************************************************************/
 /* Software IP Version */
 #define ALACD_CUSTOMERID	((ACMW_UINT32)(0x00u))				/* Standard version */
-#define ALACD_RELEASEID		((ACMW_UINT32)(0xB1u))				/* Formal   version */
+#define ALACD_RELEASEID		((ACMW_UINT32)(0x00u))				/* Formal   version */
 #define ALACD_MAJORID		((ACMW_UINT32)(0x02u))
 #define ALACD_MINORID		((ACMW_UINT32)(0x00u))
 
